@@ -163,3 +163,28 @@ console.info: MINT: Loading search-config defaults.
 1631832176776	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
 1631832194064	Marionette	INFO	Stopped listening on port 40587
+1631832316785	geckodriver	INFO	Listening on 127.0.0.1:47597
+1631832316797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexNCh2D"
+1631832318679	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexNCh2D/search.json.mozlz4", (void 0)))
+1631832322614	Marionette	INFO	Listening on port 45607
+1631832322925	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631832350888	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631832370391	Marionette	INFO	Stopped listening on port 45607
+JavaScript error: https://www.youtube.com/s/desktop/6f400f1b/jsbin/spf.vflset/spf.js, line 28: NS_ERROR_NOT_INITIALIZED: 
+1631832410707	geckodriver	INFO	Listening on 127.0.0.1:45333
+1631832411720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek7I5av"
+1631832414114	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek7I5av/search.json.mozlz4", (void 0)))
+1631832418231	Marionette	INFO	Listening on port 45849
+1631832418571	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631832439461	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631832461396	Marionette	INFO	Stopped listening on port 45849
