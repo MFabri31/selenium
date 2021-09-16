@@ -141,3 +141,25 @@ JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError
 JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 40: uncaught exception: [object Object]
 JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 40: uncaught exception: [object Object]
 1631315544419	Marionette	INFO	Stopped listening on port 36733
+1631832078123	geckodriver	INFO	Listening on 127.0.0.1:57429
+1631832079130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLNTT9o"
+1631832082288	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLNTT9o/search.json.mozlz4", (void 0)))
+1631832089456	Marionette	INFO	Listening on port 42521
+1631832089980	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631832109462	Marionette	INFO	Stopped listening on port 42521
+1631832170256	geckodriver	INFO	Listening on 127.0.0.1:41203
+1631832170269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8HCwp3"
+1631832172197	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is AR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8HCwp3/search.json.mozlz4", (void 0)))
+1631832176450	Marionette	INFO	Listening on port 40587
+console.info: MINT: Loading search-config defaults.
+1631832176776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631832194064	Marionette	INFO	Stopped listening on port 40587
